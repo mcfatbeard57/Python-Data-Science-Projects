@@ -3,7 +3,7 @@
 Created on Sat Aug 15 14:44:18 2020
 
 @author: ezgupha
-
+#
 Indian Flag
 """
 import numpy as np
